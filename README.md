@@ -1,3 +1,3 @@
 # My Theme for [Oh My Posh](https://ohmyposh.dev/)
 
-![Screenshots](Images/gif.png)
+![Screenshots](Images/ss.gif)
